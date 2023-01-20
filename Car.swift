@@ -122,7 +122,7 @@ func test() {
     var audi = Car(color: .red, owner: "Alec")
     print("Alec's car initially:\n")
     print(audi.description)
-    print("\nAfter buys the car:\n")
+    print("\nAfter Sam buys the car:\n")
     audi.changeOwner(newOwner: "Sam")
     audi.addWheels(count: 6)
     audi.repaint(newColor: .pink)
