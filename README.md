@@ -8,4 +8,6 @@ For this project, you'll be writing a few basic Swift functions (and a `struct`)
 5. addFive
 6. Car
 
-Each of these has at least one test written for it on GitHub Classroom. Be sure to commit + push your code every time you reach a good checkpoint.
+Each of these has at least one test written for it on GitHub Classroom. The tests use output, so **make sure you are only printing what the `test()` method would expect.**
+
+Be sure to commit + push your code every time you reach a good checkpoint.
