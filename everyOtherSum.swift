@@ -39,7 +39,7 @@ func test() {
         nums.append(Double(args[i])!)
     }
 
-    print("\(String(format: "%.1f", everyOtherSum(nums: nums))")
+    print(String(format: "%.1f", everyOtherSum(nums: nums)))
 
 }
 
