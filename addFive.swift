@@ -12,7 +12,7 @@ import Foundation
  
  # Example #
  ```
- addFive(term: "5") \\ prints "5 plus 5 is 10!"
+ addFive(term: "10") \\ prints "10 plus 5 is 15!"
  addFive(term: "cheese") \\ prints "cheese is not an integer!"
  ```
  */
